@@ -1,7 +1,7 @@
 # StringExtensionMethod-CSharp
 
 - Type of class and type of method must be static also method must be return a string type
-- The parameter of method must be start with "_this_" e.g -> ```c# ToCustomNameFormat(this string input)```
+- The parameter of method must be start with "_this_" e.g -> ```ToCustomNameFormat(this string input)```
 
 - This exaple is created for a custom name format.
    <br/>
