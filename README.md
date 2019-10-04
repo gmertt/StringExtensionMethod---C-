@@ -5,7 +5,7 @@
 </ul>
 <br/>
 <p>
-  This exaple is created for a custom name format. Input: jodn doe, Output : John Doe
+  This exaple is created for a custom name format. e.g. -> Input: jodn doe, Output : John Doe
   <br/>
-  Input: sarı çizmeli mehmet ağa, Output: Sarı Çizmeli Mehmet Ağa   
+  e.g. -> Input: sarı çizmeli mehmet ağa, Output: Sarı Çizmeli Mehmet Ağa   
 </p>
