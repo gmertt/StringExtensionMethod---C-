@@ -11,7 +11,7 @@
 <br/>
 <h3>Calling The Function <h3>
 <p>
-  ```csharp
+  '''csharp
     string Name ="john doe"; 
     Console.WriteLine(Name.ToCustomNameFormat());
      //John Doe
