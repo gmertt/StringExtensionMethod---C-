@@ -14,6 +14,6 @@
   <code>
     string Name ="john doe";
     Console.WriteLine(Name.ToCustomNameFormat()); //John Doe
-  <code>  
-<p>
+  </code>  
+</p>
 
