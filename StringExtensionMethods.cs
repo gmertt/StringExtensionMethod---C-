@@ -1,3 +1,6 @@
+using System;
+using System.Text;
+namespace ExapleProject.ExtensionMethods{
 public static class StringExtensionMethods
     {
         //e.g. -> Merter GÜLBAHAR ,Ali Veli GEZGİN
@@ -27,3 +30,4 @@ public static class StringExtensionMethods
             }
         }
     }
+}
