@@ -3,9 +3,9 @@
 <li>Type of class and type of method must be static also method must be return a string type</li>
 <li>The parameter of method must be start with "this" e.g -> ConvertName(this string input) </li>
 </ul>
-
+<br/>
 <p>
-  This exaple is created for a custom name format.Input: jodn doe, Output : John Doe
+  This exaple is created for a custom name format. Input: jodn doe, Output : John Doe
   <br/>
   Input: sarı çizmeli mehmet ağa, Output: Sarı Çizmeli Mehmet Ağa   
 </p>
