@@ -12,8 +12,11 @@
 <h3>Calling The Function <h3>
 <p>
   <code>
-    string Name ="john doe";
-    Console.WriteLine(Name.ToCustomNameFormat()); //John Doe
+    string Name ="john doe"; 
+     <br/>
+    Console.WriteLine(Name.ToCustomNameFormat());
+     <br/>
+     //John Doe
   </code>  
 </p>
 
