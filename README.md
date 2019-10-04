@@ -5,9 +5,9 @@
 
 - This exaple is created for a custom name format.
    <br/>
-   e.g. -> __Input__: john doe, __Output__ : John Doe
+   _e.g_. -> __Input__: john doe, __Output__ : John Doe
    <br/>
-   e.g. -> __Input__: sarı çizmeli mehmet ağa, __Output__: Sarı Çizmeli Mehmet Ağa 
+   _e.g._ -> __Input__: sarı çizmeli mehmet ağa, __Output__: Sarı Çizmeli Mehmet Ağa 
 
 <br/>
 <h3>Calling The Function <h3>
