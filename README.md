@@ -10,10 +10,9 @@
 </ul>
 <br/>
 <h3>Calling The Function <h3>
-
-  ```c#
-    string Name ="john doe"; 
-    Console.WriteLine(Name.ToCustomNameFormat());
-     //John Doe
+```c#
+   string Name ="john doe"; 
+   Console.WriteLine(Name.ToCustomNameFormat());
+   //John Doe
 
 
