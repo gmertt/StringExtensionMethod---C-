@@ -6,5 +6,6 @@
 
 <p>
   This exaple is created for a custom name format.Input: jodn doe, Output : John Doe
-  - Input: sarı çizmeli mehmet ağa, Output: Sarı Çizmeli Mehmet Ağa   
+  <br/>
+  Input: sarı çizmeli mehmet ağa, Output: Sarı Çizmeli Mehmet Ağa   
 </p>
