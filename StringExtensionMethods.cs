@@ -3,7 +3,7 @@ using System.Text;
 namespace ExapleProject.ExtensionMethods{
 public static class StringExtensionMethods
     {
-        //e.g. -> Merter GÜLBAHAR ,Ali Veli GEZGİN
+        //e.g. -> Merter GÜLBAHAR ,Ali Veli DELİ
         public static string ToCustomNameFormat(this string input)
         {
             switch (input)
